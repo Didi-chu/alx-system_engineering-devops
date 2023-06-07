@@ -1,1 +1,1 @@
-A script that prints the absolute path name of the current working directory
+My first readme on 0x00-shell_basics directory
